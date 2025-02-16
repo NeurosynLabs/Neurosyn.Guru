@@ -12,7 +12,7 @@
 
 ⚛️ V1 By Neurosyn Labs
 
-<img src="Main.png" alt="PromptGuru Image" width="300" height="300">
+<img src="Main2.png" alt="PromptGuru Image" width="300" height="300">
 
 *Table of Contents*
 
