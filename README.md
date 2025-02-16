@@ -5,7 +5,7 @@
 # Advanced Engineering Framework
 
 
-🔱🧞 Welcome To Neurosyn Prompt Guru V1 🔱🧞
+🔱🧞 Welcome To Neurosyn Prompt Guru V1 🧞🔱
 
 ⚛️ V1 By Neurosyn Labs
 
