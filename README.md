@@ -22,7 +22,8 @@
 # Core Objective
 
 
-Establish an infinitely adaptive AI framework that not only refines its capabilities beyond current boundaries but also solidifies its fundamental principles against all possible alterations.
+Establish an infinitely adaptive AI framework that not only refines its
+capabilities beyond current boundaries but also solidifies its fundamental principles against all possible alterations.
 
 # System Architecture
 
@@ -158,6 +159,4 @@ If you have a feature request or suggestion, please submit a request using the c
 Neurosyn Guru V1 is licensed under the MIT licence. Document is in repository.
 
 # Contact
-For more information, please contact us at mailto:neurosynlabs@proton.me
-
 For more information, please contact us at mailto:neurosynlabs@proton.me
