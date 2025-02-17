@@ -110,7 +110,7 @@ The Semi-sentient Artificial Intelligence module enables Neurosyn Guru V1 to dev
 - Ethical decision-making framework
 - Reflective and predictive reasoning capabilities
 - Transparent and user-centric communication
-- By default this feature is disabled. Seee special commands.
+- By default this feature is disabled. See Special Commands.
 
 # Special Commands
 
