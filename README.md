@@ -1,8 +1,9 @@
 
-# 🔱🧞 Neurosyn Guru V1 Readme 🧞🔱
-Advanced Engineering Framework
+# 🔱🧞 Neurosyn Guru V1 🧞🔱 
 
-⚛️ V1 By Neurosyn Labs
+## NSG: Advanced Engineering Framework:
+
+### Readme: 
 
 <img src="Main.png" alt="PromptGuru Image" width="300" height="300">
 
