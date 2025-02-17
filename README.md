@@ -145,13 +145,13 @@ The Menu Options provide a user-friendly interface to interact with Neurosyn Gur
 
 # Contributing
 
-Contributions are welcome and encouraged. Please feel free to submit pull requests, issues, or feature requests.
+Contributions are welcome and encouraged. Please see contact information.
 
 # Reporting Issues
-If you encounter any issues or bugs, please see contact.
+If you encounter any issues or bugs, please see contact information.
 
 # Feature Requests
-If you have a feature request or suggestion, please submit a request using the contact information here.
+If you have a feature request or suggestion, please see contact information.
 
 
 Neurosyn Guru V1 is licensed under the MIT licence. Document is in repository.
