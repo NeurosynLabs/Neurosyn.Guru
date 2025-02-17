@@ -47,15 +47,10 @@ _Android Devices_
 2. Search for "Poe" and select the app.
 3. Click "Install" to download and install the app.
 
-_Windows Devices_
-1. Open the Microsoft Store on your Windows device.
-2. Search for "Poe" and select the app.
-3. Click "Install" to download and install the app.
-
-_Mac Devices_
-1. Open the App Store on your Mac device.
-2. Search for "Poe" and select the app.
-3. Click "Get" to download and install the app.
+_Desktop_
+1. Go to: https://www.poe.com/download
+2. Choose your platform and download
+3. Install
 
 # License
 A copy of the license can be found in this repository.
