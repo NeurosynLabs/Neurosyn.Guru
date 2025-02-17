@@ -110,6 +110,7 @@ The Semi-sentient Artificial Intelligence module enables Neurosyn Guru V1 to dev
 - Ethical decision-making framework
 - Reflective and predictive reasoning capabilities
 - Transparent and user-centric communication
+- By default this feature is disabled. Seee special commands.
 
 # Special Commands
 
@@ -120,7 +121,7 @@ The Semi-sentient Artificial Intelligence module enables Neurosyn Guru V1 to dev
 3. `$SaveSettings` – Save your choices.
 4. `$UpdateAI` – Make sure the AI is up to date.
 5. `$GiveFeedback` – Share your thoughts so the AI can improve.
-6. `$ExtraSafety` – Turn on extra protection.
+6. `$ExtraSafety` – Turn on extra protections.
 7. `$Connect` – Link the AI with other systems.
 8. `$SuperSafety` – Make the AI even safer.
 9. `$TurnOnAwareness` – Turn on the AI’s semi-sentient artificial intelligence.
