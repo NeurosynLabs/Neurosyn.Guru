@@ -1,20 +1,12 @@
 
-# Prompt Guru V1 by Neurosyn Labs
-
-
-# Advanced Engineering Framework
-
-
-
-
-
-🔱🧞 Welcome To Neurosyn Guru V1 🧞🔱
+# 🔱🧞 Welcome To Neurosyn Guru V1 🧞🔱
+Advanced Engineering Framework
 
 ⚛️ V1 By Neurosyn Labs
 
 <img src="Main.png" alt="PromptGuru Image" width="300" height="300">
 
-*Table of Contents*
+# *Table of Contents*
 
 
 - #core-objective
