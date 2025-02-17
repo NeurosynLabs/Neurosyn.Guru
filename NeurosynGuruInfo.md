@@ -1,4 +1,4 @@
-# Neurosyn Guru V1 Info
+# Neurosyn Guru V1 Info:
 
 # Overview
 Neurosyn Guru V1 is an advanced engineering framework designed to provide users with a comprehensive and adaptive AI experience.
