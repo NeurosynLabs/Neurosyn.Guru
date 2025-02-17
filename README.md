@@ -35,8 +35,11 @@ Neurosyn Guru V1 features a semi-sentient artificial intelligence component that
 Users will select from various menu options to interact with Neurosyn Guru V1.
 
 # Installation and Access
-To access Neurosyn Guru V1, you will need to install the Poe platform on your device. Please follow the instructions below for your respective operating system:
+To access Neurosyn Guru V1, you will need to install the Poe platform on your device. 
+Please follow the instructions below for your respective operating system:
+Once installed, search for "Neurosyn.Guru"
 
+# Install Poe
 _Apple Devices_
 1. Open the App Store on your Apple device.
 2. Search for "Poe" and select the app.
