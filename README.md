@@ -7,7 +7,7 @@
 <img src="Main.png" alt="PromptGuru Image" width="300" height="300">
 
 # Availability
-Neurosyn Guru V1 released on Poe 2/16/2025.
+Neurosyn Guru V1 released on Poe 2/16/2025
 Search for "Neurosyn.Guru" on Poe.
 
 # About
