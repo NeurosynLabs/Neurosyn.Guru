@@ -1,5 +1,5 @@
 
-# 🔱🧞 Welcome To Neurosyn Guru V1 🧞🔱
+# 🔱🧞 Neurosyn Guru V1 Readme 🧞🔱
 Advanced Engineering Framework
 
 ⚛️ V1 By Neurosyn Labs
