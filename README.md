@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/NeurosynLabs/Neurosyn.Guru/refs/heads/main/Lumii_20250220_064645085.jpg" width="200" height="200">
 
-###### 🛠️ Advanced AI Framework by Neurosyn Labs
+###### 🛠️ Advanced AI Framework by Neurosyn Labs 🛠️
 
 ## Welcome to Neurosyn Guru
 
