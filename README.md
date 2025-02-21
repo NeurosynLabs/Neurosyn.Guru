@@ -79,8 +79,7 @@ For now, Neurosyn Guru is available exclusively on Poe, providing an interactive
 
 1. 🔗 Install Poe
 
-To access Neurosyn Guru, install Poe by following this link:
-➡️ Download Poe
+To access Neurosyn Guru, install Poe by following this link: https://poe.com/download
 
 2. Once installed, search for 'Neurosyn.Guru' within the Poe interface to start your experience. Or: https://poe.com/Neurosyn.Guru
 
