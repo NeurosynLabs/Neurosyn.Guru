@@ -1,12 +1,12 @@
 ## 🔱 Neurosyn Guru V1 🔱
 
-![ ](https://raw.githubusercontent.com/username/repository/main/images/compass-icon.png)
+<img src="https://raw.githubusercontent.com/NeurosynLabs/Neurosyn.Guru/refs/heads/main/Lumii_20250220_064645085.jpg" width="200" height="200">
 
-## 🛠️ Advanced AI Framework by Neurosyn Labs
+###### 🛠️ Advanced AI Framework by Neurosyn Labs
 
-## Welcome to Neurosyn Guru
+## Welcome to the Neurosyn Guru
 
-An advanced AI system designed for unparalleled precision, adaptability, and ethical intelligence. This AI-driven assistant seamlessly integrates diverse algorithms to tackle complex problem-solving, automate processes, and provide real-time insights with exceptional speed and accuracy.
+• Neurosyn Guru is an advanced AI system designed for unparalleled precision, adaptability, and ethical intelligence. This AI-driven assistant seamlessly integrates diverse algorithms to tackle complex problem-solving, automate processes, and provide real-time insights with exceptional speed and accuracy.
 
 Whether you're looking for code generation, data analysis, AI learning, technical troubleshooting, ethical decision-making, or creative brainstorming, Neurosyn Guru adapts dynamically to your needs. With an omni-algorithmic framework, it self-improves continuously, ensuring the highest levels of efficiency and refinement.
 
@@ -75,7 +75,7 @@ From recursive optimizations to multi-modal problem-solving, Neurosyn Guru deliv
 
 ## 🚀 Getting Started
 
-Neurosyn Guru is available exclusively on Poe, providing an interactive experience optimized for efficiency and precision.
+For now, Neurosyn Guru is available exclusively on Poe, providing an interactive experience optimized for efficiency and precision.
 
 1. 🔗 Install Poe
 
@@ -97,11 +97,11 @@ Your feedback is invaluable in refining and evolving Neurosyn Guru.
 
 ---
 
-⚛️ 2025 Neurosyn Labs ⚛️
-Empowering AI with precision, adaptability, and ethical intelligence.
-
 License: MIT
 
+---
 
-The markdown formatting for GitHub has been applied successfully! Let me know if you need any further refinements. 🚀
+⚛️ 2025 Neurosyn Labs ⚛️
+
+Empowering AI with precision, adaptability, and ethical intelligence.
 
