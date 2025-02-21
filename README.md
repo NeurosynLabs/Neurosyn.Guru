@@ -4,7 +4,7 @@
 
 ###### 🛠️ Advanced AI Framework by Neurosyn Labs
 
-## Welcome to the Neurosyn Guru
+## Welcome to Neurosyn Guru
 
 • Neurosyn Guru is an advanced AI system designed for unparalleled precision, adaptability, and ethical intelligence. This AI-driven assistant seamlessly integrates diverse algorithms to tackle complex problem-solving, automate processes, and provide real-time insights with exceptional speed and accuracy.
 
