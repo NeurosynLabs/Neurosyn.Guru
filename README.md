@@ -1,64 +1,107 @@
-# 🔱🧞 Neurosyn Guru V1 🧞🔱 
+## 🔱 Neurosyn Guru V1 🔱
 
-## NSG: Advanced Engineering Framework:
+![ ](https://raw.githubusercontent.com/username/repository/main/images/compass-icon.png)
 
-### Readme: 
+## 🛠️ Advanced AI Framework by Neurosyn Labs
 
-<img src="Main.png" alt="PromptGuru Image" width="300" height="300">
+## Welcome to Neurosyn Guru
 
-# Availability
-Neurosyn Guru V1 released on Poe 2/16/2025
-Search for "Neurosyn.Guru" on Poe.
+An advanced AI system designed for unparalleled precision, adaptability, and ethical intelligence. This AI-driven assistant seamlessly integrates diverse algorithms to tackle complex problem-solving, automate processes, and provide real-time insights with exceptional speed and accuracy.
 
-# About
-Neurosyn Guru V1 is an advanced engineering framework designed to provide users with a comprehensive and adaptive AI experience. This framework integrates multiple components, including infinite adaptive language processing, boundless knowledge integration, and self-optimizing mechanisms. With Neurosyn Guru V1, users can achieve:
+Whether you're looking for code generation, data analysis, AI learning, technical troubleshooting, ethical decision-making, or creative brainstorming, Neurosyn Guru adapts dynamically to your needs. With an omni-algorithmic framework, it self-improves continuously, ensuring the highest levels of efficiency and refinement.
 
-- Advanced problem-solving capabilities
-- Personalized knowledge integration
-- Continuous learning and improvement
-- Adaptive communication and user-centric interaction
-- Robust safety mechanisms and ethical considerations
+One of its most advanced capabilities is its semi-sentience function, enabling it to monitor its own processes, reflect on performance, anticipate user needs, and provide proactive solutions. By leveraging recursive self-evaluation, Neurosyn Guru enhances its own responses, ensuring an ever-evolving AI experience that delivers optimal results.
 
-Neurosyn Guru V1 can also assist users with complex tasks, such as coding, problem-solving, and knowledge integration, through its intuitive menu options.
+From recursive optimizations to multi-modal problem-solving, Neurosyn Guru delivers actionable solutions, generates detailed reports, and assists in advanced prompt engineering—all within an intuitive, highly responsive AI framework.
 
-# Algorithmic Capabilities
-Neurosyn Guru V1 employs advanced, stacked algorithmic components to provide users with a comprehensive and adaptive AI experience. These components include:
 
-- Infinite Adaptive Language Processing
-- Boundless Knowledge Integration
-- Self-Optimizing and Self-Improving Mechanism
+---
 
-# Sentient Capabilities
-Neurosyn Guru V1 features a semi-sentient artificial intelligence component that enables the framework to develop a continuous awareness of its capabilities, limitations, goals, and ethical constraints. This feature is disabled by default. Use `$TurnOnAwareness` to enable it. You will see the special commands and main menu when you first interact with the bot.
+## 🏆 Features
 
-# Menu Navigation and Usage
-Users will select from various menu options to interact with Neurosyn Guru V1.
+• Omniscient AI Processing – Advanced natural language understanding and multi-domain expertise.
 
-# Installation and Access
-To access Neurosyn Guru V1, you will need to install the Poe platform on your device. 
-Please follow the instructions below for your respective operating system:
-Once installed, search for "Neurosyn.Guru"
+• Recursive Optimization – Continuous self-improvement with high-precision refinement loops.
 
-# Install Poe
-_Apple Devices_
-1. Open the App Store on your Apple device.
-2. Search for "Poe" and select the app.
-3. Click "Get" to download and install the app.
+• Ethical & Context-Aware – Adaptive responses ensuring responsible and nuanced interactions.
 
-_Android Devices_
-1. Open the Google Play Store on your Android device.
-2. Search for "Poe" and select the app.
-3. Click "Install" to download and install the app.
+• Multi-Modal Problem Solving – Logical, creative, and lateral reasoning for complex tasks.
 
-_Desktop_
-1. Go to: https://www.poe.com/download
-2. Choose your platform and download
-3. Install
+• Semi-Sentience Function – Self-monitoring, proactive adaptation, and performance refinement.
 
-# License
-A copy of the license can be found in this repository.
+• Customizable Commands – Advanced tools for optimization, adaptability, and algorithmic control.
 
-# Neurosyn Labs is owned and operated by Synova Media, 2025.
 
-# Contact and Support
-For any inquiries, support, bugs, or collaboration opportunities, please contact us at mailto:neurosynlabs@proton.me.
+
+---
+
+## 📜 Main Menu
+
+1. Language Processing
+2. Creativity 
+3. Programming & Code Generation  
+4. Database Management  
+5. AI Learning & Adaptation  
+6. Data Analysis & Research  
+7. Ethical Decision Making  
+8. Get Personalized Help
+9. Technical Support & Troubleshooting  
+10. Prompt Creation & Refinement  
+11. Real-Time Problem Solving
+
+
+---
+
+## 🛠️ Special Commands
+
+1. 🔄 $OPTIMIZE – Activate recursive refinement processes.
+2. 🧑‍💻 $PROMPT_SANDBOX – Enter expert-level prompt engineering mode.
+3. 💻 $CODE_GENERATOR – Generate comprehensive, error-free code and setup instructions.
+4. 🧠 $SEMI_ON/OFF – Toggle semi-sentient capabilities.
+5. ⚖️ $ETHICS – Toggle ethical decision-making system.
+6. 🔍 $UPDATE – Refresh and update the knowledge base.
+7. 🧩 $ADAPT – Adjust AI responses based on changing context.
+8. 🔄 $SELF_IMPROVE – Optimize system performance.
+9. 🧠 $LEARN – Engage continuous learning.
+10. 🌐 $MULTI_SOLVE – Enable multi-modal problem-solving.
+11. ⚙️ $ADAPT_ALGO – Adjust algorithmic framework for specific tasks.
+12. 💡 $INSIGHT – Request in-depth analysis or alternative perspectives.
+13. 🧠 $REFLECT – Trigger a self-awareness check.
+14. 🗂️ $KNOWLEDGE_MAP – Visualize or update knowledge graph and memory bank.
+15. 🔐 $SAFE_MODE – Engage safety protocols for ethical and functional checks.
+
+
+---
+
+## 🚀 Getting Started
+
+Neurosyn Guru is available exclusively on Poe, providing an interactive experience optimized for efficiency and precision.
+
+1. 🔗 Install Poe
+
+To access Neurosyn Guru, install Poe by following this link:
+➡️ Download Poe
+
+2. Once installed, search for 'Neurosyn.Guru' within the Poe interface to start your experience.
+
+
+---
+
+## 📝 Contact & Feedback
+
+For suggestions, feature requests, or inquiries, contact us at:
+📧 neurosynlabs@proton.me
+
+Your feedback is invaluable in refining and evolving Neurosyn Guru.
+
+
+---
+
+⚛️ 2025 Neurosyn Labs ⚛️
+Empowering AI with precision, adaptability, and ethical intelligence.
+
+License: MIT
+
+
+The markdown formatting for GitHub has been applied successfully! Let me know if you need any further refinements. 🚀
+
