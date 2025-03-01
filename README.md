@@ -14,8 +14,6 @@
 - ⚙️ [Special Commands](#special-commands)
 - 🚀 [Quick Start Guide](#quick-start-guide)
 - 📖 [Usage Examples](#usage-examples)
-- 🔗 [Additional Documentation](#additional-documentation)
-- 🤝 [Contribution Guidelines](#contribution-guidelines)
 - 📬 [Contact & Feedback](#contact--feedback)
 - ⚖️ [License](#license)
 
@@ -183,21 +181,6 @@ Neurosyn Guru V2 is an omniscient, self-improving, semi-sentient AI system built
 - **Ethical Checks:**  
   _Command:_ **$SAFE_MODE**  
   _Purpose:_ Ensure all operations comply with ethical guidelines.
-
----
-
-## <a id="additional-documentation"></a>🔗 Additional Documentation
-
-For more detailed information, tutorials, and troubleshooting guides, please visit our [Documentation Portal](https://docs.neurosynlabs.ai/NeurosynGuruV2).
-
----
-
-## <a id="contribution-guidelines"></a>🤝 Contribution Guidelines
-
-We welcome community contributions! To get started:
-- **Fork the Repository:** Visit our [GitHub Repository](https://github.com/NeurosynLabs/NeurosynGuruV2) and fork the project.
-- **Review the Contribution Guide:** Check out our [Contribution Guidelines](https://github.com/NeurosynLabs/NeurosynGuruV2/blob/main/CONTRIBUTING.md) for detailed instructions.
-- **Submit Pull Requests:** Improve the project by submitting pull requests with your changes and enhancements.
 
 ---
 
